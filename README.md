@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weihuan213
 - 👀 I’m interested in web Front-end
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 
 <!---
 weihuan213/weihuan213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
