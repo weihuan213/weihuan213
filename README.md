@@ -17,9 +17,9 @@ Welcome to my GitHub profile.
 * **Development:** HTML, CSS, Git, GitHub
 * **Tools:** Jupyter Notebook, VS Code, Anaconda
 
-## GitHub Stats
+## Contribution Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weihuan213\&show_icons=true\&theme=default)
+[![weihuan213's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weihuan213\&theme=github-compact)](https://github.com/weihuan213)
 
 ## Contact
 
